@@ -1,0 +1,5 @@
+MEMORIA DINAMICA 
+
+Los tipos de datos tienen tamaño estandarizado, y ocupan celdas contiguas 
+
+int / float = 4 bytes segun los compiladores de c++; 

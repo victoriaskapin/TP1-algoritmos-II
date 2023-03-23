@@ -1,0 +1,8 @@
+Informe 
+    como realice el trabajo 
+
+Manual de usuario 
+    Explico como utilizar el jueguito 
+
+Manual del programador 
+    Documentacion para otro programador 
